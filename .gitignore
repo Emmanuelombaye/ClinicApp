@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+__pycache__/
+*.log
+.vscode/
+.idea/
+config.bat
